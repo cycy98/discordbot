@@ -1,0 +1,6 @@
+[
+  { "id": "user1", "level": 10, "xp": 2450, "last_time_message_sent": 4534845345324 },
+  { "id": "user2", "level": 8,  "xp": 3120, "last_time_message_sent": 7854313453453 },
+  { "id": "user3", "level": 10, "xp": 1800, "last_time_message_sent": 1234567890123 },
+  { "id": "user4", "level": 5,  "xp": 1500, "last_time_message_sent": 9876543210987 }
+]
